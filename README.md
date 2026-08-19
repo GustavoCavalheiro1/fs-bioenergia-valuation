@@ -150,6 +150,25 @@ Os arquivos CSV na pasta `assets/charts/` permitem auditar as entradas sem depen
 
 O contexto, os dados e as premissas deste portfólio foram transcritos do documento [`Grupo GHT4 Challenge Commodities (3).pdf`](Grupo%20GHT4%20Challenge%20Commodities%20(3).pdf), disponível neste repositório. O PDF também lista as fontes públicas utilizadas no trabalho original, incluindo FS, ANP, B3, UNEM, Green Plains, Senado Federal e Portal Gov.br.
 
+## Sensibilidade avançada
+
+Além da matriz-base de três por três cenários, o projeto agora calcula uma matriz paramétrica configurável de **WACC × crescimento perpétuo**. Por padrão, a grade cobre WACC de 10% a 20% e crescimento perpétuo de 1% a 5%, com incrementos de 0,5%. Cada célula recalcula o PV dos FCFF explícitos, o valor terminal, o Enterprise Value e o Equity Value, apresentado em R$ bilhões.
+
+A matriz completa é gerada por `scripts/valuation_model.py` e exportada para [`sensibilidade_avancada.csv`](assets/charts/sensibilidade_avancada.csv). O modelo bloqueia combinações economicamente inválidas em que o WACC é menor ou igual ao crescimento na perpetuidade.
+
+## Dashboard interativo em Streamlit
+
+O dashboard permite alterar o WACC, o crescimento perpétuo, as faixas da matriz e o incremento da grade. A interface apresenta KPIs do valuation, heatmap interativo, cenários conservador/base/otimista, download da matriz CSV, projeções financeiras, gráfico interativo de Receita/EBIT/FCFF e os gráficos PNG do portfólio.
+
+Para executar localmente:
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Em seguida, abra `http://localhost:8501` no navegador. O aplicativo está concentrado em [`app.py`](app.py), enquanto a lógica do modelo fica em [`scripts/valuation_model.py`](scripts/valuation_model.py), permitindo separar apresentação e cálculo.
+
 ## Licença e uso
 
 Este repositório é apresentado como material de estudo e portfólio. Os valores, premissas e conclusões devem ser revisados antes de qualquer utilização profissional ou decisão financeira.
