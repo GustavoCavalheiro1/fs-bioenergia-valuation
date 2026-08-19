@@ -1,0 +1,375 @@
+                          FS BIOENERGIA - RELATÓRIO DE VALUATION
+
+Grupo: GHT4.       Membros: Gustavo Cavalheiro & Vinícius Cerqueira.          Data: Julho de 2025
+
+1.​    Perfil da Empresa e Benchmarking
+
+A FS Bioenergia, joint venture criada em 2016 entre a Tapajós Participações (Brasil) e a Summit
+Agricultural Group (EUA), é pioneira na produção de etanol exclusivamente a partir do milho no
+Brasil. Com três unidades industriais em Mato Grosso e capacidade superior a 2,1 bilhões de
+litros por ano, adota um modelo de biorrefinaria integrada que gera múltiplos produtos: etanol
+(anidro e hidratado), DDG (ração animal), óleo de milho bruto e energia elétrica (cogerada).
+
+A logística de escoamento da produção é multimodal, combinando rodovias, ferrovias
+(Norte-Sul e Rumo) e portos (Santos, Paranaguá, Itaqui).
+
+1.1.​ Benchmarking e Posição Competitiva: A FS se diferencia por operar exclusivamente com
+milho, enquanto concorrentes como a CerradinhoBio adotam modelo flex (cana e milho) e a
+Green Plains Inc., nos EUA, também atua 100% com milho. Em capacidade, supera a
+CerradinhoBio (~1,2 bi l/ano), embora fique abaixo da Green Plains (>3,1 bi l/ano). Sua
+localização no Mato Grosso favorece a logística por estar próxima tanto da matéria-prima (milho
+safrinha) quanto do mercado consumidor de DDG (pecuária).
+
+
+
+2.​    Análise Setorial
+
+O setor de bioenergia no Brasil passa por uma reconfiguração estrutural impulsionada pela
+crescente participação do etanol de milho, que representa atualmente 20% da produção
+nacional e pode atingir 40% até 2030. Esse crescimento é viabilizado por três pilares principais:
+a estocagem do milho permite operação industrial contínua (365 dias/ano), aumentando a
+eficiência e reduzindo custos fixos; a localização estratégica das usinas no Centro-Oeste facilita o
+acesso à matéria-prima e ao mercado consumidor de DDG; e políticas públicas, como a Lei
+14.993/2024 (“Combustível do Futuro”), incentivam o uso de biocombustíveis e a criação de
+novos mercados, como o do SAF (Combustível Sustentável de Aviação) e do diesel verde.
+
+Adicionalmente, os co-produtos da produção de etanol ganham destaque. O DDG se beneficia
+da abertura do mercado chinês, criando um novo patamar de demanda e valorização. Já o óleo
+de milho é favorecido pela elevação gradual do mandato de biodiesel (de B14 para B20 até
+2030), ampliando sua relevância econômica. Esses fatores fortalecem a competitividade
+estrutural do segmento de etanol de milho.
+
+2.1.​ Análise Competitiva (5 Forças de Porter): A indústria de etanol de milho apresenta
+margens estreitas, o que exige escala, eficiência e liderança em custos. A seguir, a avaliação das
+cinco forças de Porter aplicadas à FS Bioenergia:
+      ●​ Ameaça de Novos Entrantes (Baixa/Média – 3/5)​
+          O elevado investimento inicial (CAPEX), a complexidade tecnológica e a necessidade de
+         contratos de longo prazo dificultam a entrada de novos players em escala competitiva.
+      ●​ Poder de Barganha dos Fornecedores (Baixo/Médio – 2/5)​
+          A matéria-prima principal, o milho, tem oferta pulverizada e alta disponibilidade na
+         "safrinha", o que reduz o poder de barganha dos produtores rurais frente a grandes
+         compradoras como a FS.
+      ●​ Poder de Barganha dos Compradores (Alto – 5/5)​
+          O mercado de distribuição de combustíveis é concentrado em poucos grandes clientes
+         (como Raízen, Vibra e Ipiranga), o que confere a eles um forte poder de negociação.
+      ●​ Ameaça de Substitutos (Alta – 5/5)​
+          O etanol concorre diretamente com a gasolina, com demanda altamente sensível à
+         paridade de preços. Além disso, o DDG disputa espaço com o farelo de soja e o óleo de
+         milho compete com outros óleos vegetais.
+      ●​ Rivalidade entre Concorrentes (Alta – 5/5)​
+          O setor é composto por grandes produtores de commodities semelhantes, levando a
+         uma competição intensa, centrada em preço e eficiência operacional.
+
+
+
+3.​      Análise SWOT
+
+Forças
+
+      ●​ Liderança no etanol de milho no Brasil, com escala produtiva e operação contínua.
+      ●​ Modelo de biorrefinaria 100% integrado (etanol, DDG, óleo e energia), que diversifica
+         receitas.
+      ●​ Alta eficiência energética e geração de CBIOs.
+
+Fraquezas
+
+      ●​ Dependência exclusiva do milho como matéria-prima, expondo-se à volatilidade do
+         crush spread.
+      ●​ Alto CAPEX para expansão e distância dos grandes centros consumidores.
+
+Oportunidades
+
+      ●​ Expansão do mercado com políticas públicas favoráveis, como o SAF e o Diesel Verde.
+      ●​ Abertura do mercado chinês para DDG, com potencial de valorização estrutural do
+         produto.
+
+
+
+Ameaças
+       ●​ Riscos regulatórios (RenovaBio, mistura obrigatória).
+       ●​ Concorrência com gasolina, farelo de soja e outros óleos vegetais.
+       ●​ Desafios logísticos e ameaça futura da eletrificação veicular.
+       ●​ SAF (Sustainable Aviation Fuel) como novo mercado premium para etanol.
+       ●​ Exportação de DDG para a China, com potencial de valorização estrutural do produto.
+
+
+
+4. ​      Análise do Mercado de Etanol
+
+ O Brasil, 2º maior produtor global, vê o etanol de milho ganhar destaque, reduzindo a
+sazonalidade do setor.
+
+4.1.​ Oferta e Demanda (S&D): A produção nacional foi de 32,5 bilhões de litros em 2023,
+com 7 bilhões provenientes do milho. O consumo doméstico é liderado por São Paulo (>50%) e
+é altamente sensível à paridade de preços com a gasolina.
+
+4.2.​ Principais Drivers de Preço: Paridade com a gasolina, preço do milho, câmbio, clima e
+políticas de mistura.
+
+4.3.​ Impacto do RenovaBio: O programa gera receita adicional via venda de Créditos de
+Descarbonização (CBIOs), beneficiando produtores energeticamente eficientes como a FS. Os
+preços do CBIO, contudo, são voláteis, tendo recuado em 2025 para cerca de R$ 68,9/unidade
+após picos acima de R$ 100 em 2024.
+
+
+
+5.​    Avaliação da Empresa (Valuation)​
+A FS foi avaliada pelo método de Fluxo de Caixa Descontado (DCF), com projeções para o
+período de 2026 a 2030, baseadas nos resultados de FY25.
+
+Premissas principais:
+
+       ●​ Receita parte de R$ 10,7 bilhões, com crescimento decrescente de 12% (FY26) para 4%
+          (FY30).
+       ●​ Margem EBIT constante em 22%.
+       ●​ CAPEX em queda de 8% para 4% da receita.
+       ●​ Custo de capital (WACC): 15%.
+       ●​ Crescimento na perpetuidade (g): 3%.
+
+Com essas premissas, o modelo aponta um Equity Value estimado de R$ 7,19 bilhões. Detalhes
+completos no Anexo A.
+Sensibilidade: A projeção é sensível a variações no custo de capital (WACC) e na taxa de
+crescimento em perpetuidade (g). A tabela abaixo ilustra como o valor patrimonial da empresa
+(Equity Value, em R$ bilhões) se comporta em diferentes cenários:
+
+       WACC \ g                  2,5%                   3,0%                    3,5%
+        14,0%                    9,67                   10,73                   12,01
+        15,0%                    6,50                    7,19                    7,99
+        16,0%                    4,02                    4,53                    5,12
+
+Esse exercício evidencia a relevância das premissas de taxa de desconto e crescimento de longo
+prazo na formação do valor da empresa. Um ambiente macroeconômico mais favorável — com
+juros mais baixos ou crescimento projetado maior — tende a amplificar significativamente o
+valor presente dos fluxos de caixa.
+
+Principais riscos: Volatilidade de commodities (crush spread), execução de projetos e incertezas
+regulatórias (RenovaBio, mistura obrigatória).
+
+
+
+6.​    Conclusão e Recomendação
+
+Com base na análise setorial, competitiva e financeira, recomendamos o investimento na FS
+Bioenergia. A companhia apresenta fundamentos sólidos que sustentam uma tese de
+valorização consistente no longo prazo:
+
+       1. Liderança e Eficiência Operacional:​
+        A FS é líder no etanol de milho, com mais de 2,1 bilhões de litros por ano e um modelo
+       integrado de biorrefinaria que gera valor por meio de etanol, DDG, óleo e energia. Sua
+       localização no Centro-Oeste garante acesso à matéria-prima e reduz custos logísticos,
+       resultando em margens operacionais robustas.
+
+       2. Alinhamento com Tendências Globais:​
+        A empresa está posicionada na agenda de descarbonização, com políticas públicas que
+       ampliam a demanda por biocombustíveis, como SAF e diesel verde. A rota Alcohol-to-Jet
+       é uma oportunidade de transformar o etanol em produto premium, menos atrelado à
+       gasolina.
+
+       3. Receita Diversificada e Resiliente:​
+        Com atuação em energia, biocombustíveis e alimentação animal, a FS reduz sua
+       exposição à volatilidade de commodities. A abertura do mercado chinês ao DDG reforça
+       sua presença exportadora e estabilidade de receitas.
+
+Apesar de riscos como volatilidade do crush spread, ambiente regulatório e execução de
+projetos, a FS demonstra disciplina e capacidade de gestão. O valuation estimado em R$ 7,19
+bilhões reforça a atratividade da tese, ancorada em vantagens competitivas duradouras.
+Anexo A: Projeções do Fluxo de Caixa Descontado
+
+A tabela abaixo detalha as projeções utilizadas para o cálculo do valuation da FS Bioenergia pelo
+método de Fluxo de Caixa Descontado (DCF). Todos os valores estão em milhares de R$, exceto
+quando indicado.
+
+          Descrição      FY25 (Base)   FY26       FY27       FY28       FY29       FY30
+      Receita Líquida    10.688.829 11.971.488 13.168.637 14.222.128 15.075.456 15.678.474
+Crescimento da Receita
+                                      12,0%      10,0%       8,0%       6,0%       4,0%
+              (%)
+             EBIT         2.390.462 2.633.727 2.900.000 3.128.868 3.316.600 3.449.264
+    Margem EBIT (%)         22,4%     22,0%      22,0%      22,0%      22,0%      22,0%
+ (-) Impostos (Alíquota                                   (1.063.815 (1.127.644 (1.172.749
+                          -812.757     -895       -986
+           de 34%)                                             )          )          )
+            NOPAT         1.577.705 1.738.260 1.914.000 2.065.053 2.188.956 2.276.515
+    (+) Depreciação e
+                           308.538      340        373        401        422        438
+        Amortização
+     (-) Investimentos
+                          cite_start   -958       -922       -853       -754       -627
+           (CAPEX)
+ (-) Variação no Capital
+                           -52.336      -26        -24        -21        -17        -14
+           de Giro
+   Fluxo de Caixa Livre
+                          1.305.675 1.095.090 1.341.514 1.591.626 1.840.512 2.073.674
+            (FCFF)
+    Fator de Desconto
+                                        870        756        658        572        497
+       (WACC 15,0%)
+     FCFF Descontado                    953    1.014.256 1.047.234 1.052.756 1.030.589
+
+Cálculo do Valor da Empresa
+
+              Item                 Valor (em milhares de R$)                Descrição
+ Soma dos FCFF Descontados                                        Soma dos fluxos de caixa do
+                                           5.097.562
+         (FY26-30)                                                    período explícito
+
+     FCFF na Perpetuidade                  2.135.884                 FCFF de FY30 * (1 + g)
+                                                                 FCFF na Perpetuidade / (WACC
+        Valor Terminal                    17.799.035
+                                                                              - g)
+  Valor Terminal Descontado                8.846.120             Valor Terminal / (1 + WACC)^5
+   Valor da Firma (Enterprise                                    Soma dos FCFF Descontados +
+                                          13.943.682
+             Value)                                                    VT Descontado
+                                                                    Dívida Bruta - Caixa e
+    (-) Dívida Líquida (FY25)              cite_start
+                                                                    Equivalentes de Caixa
+   Valor do Acionista (Equity                                   Ações em circulação vezes o
+                                          7.143.191
+             Value)                                                   preço por ação.
+
+
+
+Anexo B: Sumário da Lei "Combustível do Futuro" e do Programa RenovaBio
+Lei nº 14.993/2024 - "Combustível do Futuro"
+Sancionada em outubro de 2024, esta lei estabelece um novo marco para a transição energética
+no setor de transportes no Brasil.16 Seus principais pontos são:
+ ●​ Mandato de Etanol na Gasolina: Altera a faixa de mistura de etanol anidro na gasolina tipo
+     C. O novo intervalo passa a ser de 22% a 35%, a ser definido anualmente pelo Conselho
+     Nacional de Política Energética (CNPE). O patamar atual é de 27,5%.16
+ ●​ Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV): Cria um
+     mandato para as companhias aéreas reduzirem as emissões de gases de efeito estufa em
+     suas operações domésticas. A redução começa em 1% em 2027 e aumenta
+     progressivamente até atingir 10% em 2037. A principal forma de cumprimento é através da
+     utilização de Combustível Sustentável de Aviação (SAF).16
+ ●​ Diesel Verde: Estabelece um mandato nacional para a adição de diesel verde (HVO) ao
+     diesel de origem fóssil, começando em 3% em 2027.
+ ●​ Biometano: Reconhece o biometano como um biocombustível e estabelece sua
+     intercambialidade com o gás natural, permitindo sua injeção na rede de gasodutos.
+
+Programa Nacional de Biocombustíveis (RenovaBio) Instituído pela Lei nº 13.576/2017, o
+RenovaBio é uma política de estado que visa expandir a produção e o uso de biocombustíveis na
+matriz energética brasileira, com foco na redução de emissões de gases de efeito estufa.
+ ●​ Funcionamento: O programa funciona com base em dois pilares:
+     1.​ Metas de Descarbonização: A Agência Nacional do Petróleo, Gás Natural e
+         Biocombustíveis (ANP) estabelece metas anuais de redução de emissões para as
+         distribuidoras de combustíveis.
+     2.​ Créditos de Descarbonização (CBIOs): Produtores de biocombustíveis certificados
+         (como a FS) recebem o direito de emitir CBIOs. Cada CBIO equivale a uma tonelada de
+         CO2 equivalente que deixou de ser emitida. A quantidade de CBIOs que um produtor
+         pode emitir por unidade de biocombustível depende da sua eficiência
+         energético-ambiental (quanto menor a pegada de carbono, mais CBIOs por litro).
+ ●​ Mercado: As distribuidoras compram os CBIOs na bolsa de valores (B3) para cumprir suas
+    metas anuais. Isso cria uma fonte de receita adicional para os produtores de
+    biocombustíveis mais eficientes, como a FS.
+ ●​ Volatilidade de Preços: O preço do CBIO é volátil, determinado pela oferta e demanda no
+    mercado. Após picos acima de R$ 100 em 2024, o preço médio no primeiro semestre de
+    2025 recuou para cerca de R$ 69,42, representando um risco e uma oportunidade para os
+    emissores.1
+
+
+
+Anexo C: Fontes e Referências
+1.​ Quem          somos          -         FS,        accessed         July      27,   2025,
+    https://www.fs.agr.br/investidores/sobre-a-fs/quem-somos/
+2.​ FS: Home, accessed July 27, 2025, https://www.fs.agr.br/
+3.​ Home - FS, accessed July 27, 2025, https://www.fs.agr.br/en/
+4.​ Nossos         produtos         -        FS,        accessed        July     27,   2025,
+    ttps://www.fs.agr.br/investidores/sobre-a-fs/nossos-produtos/
+5.​ News - FS, accessed July 27, 2025, https://www.fs.agr.br/en/press-room/news/
+6.​ CerradinhoBio aumenta a produção de etanol na safra 2020/21 - Forbes Brasil, accessed
+    July                                          27,                                  2025,
+    https://forbes.com.br/forbesagro/2021/04/cerradinhobio-aumenta-a-producao-de-etano
+    l-na-safra-2020-21/
+7.​ Nova fábrica de etanol de milho da Neomille inicia a produção - Portal RPAnews, accessed
+    July                                          27,                                  2025,
+    https://revistarpanews.com.br/nova-fabrica-de-etanol-de-milho-da-neomille-inicia-a-pro
+    ducao/
+8.​ Annual       Report      -      Green        Plains,      accessed      July   27, 2025,
+    https://gpreinc.com/wp-content/uploads/2024/03/Green-Plains-2023-Annual-Report_W
+    eb.pdf
+9.​ CerradinhoBio investirá mais de R$ 280 milhões na construção de sua 1ª fábrica de
+    açúcar,                accessed                   July                 27,         2025,
+    https://jornalcana.com.br/mercado/usinas/cerradinhobio-investira-mais-de-r-280-milhoe
+    s-na-construcao-de-sua-1a-fabrica-de-acucar/
+10.​CBIOs e energia ajudam Cerradinho Bio no terceiro trimestre da safra 2023/2024 -
+    AgFeed,                 accessed                   July                27,         2025,
+    https://agfeed.com.br/negocios/cbios-e-energia-ajudam-cerradinho-bio-no-terceiro-trim
+    estre-da-safra-2023-2024/
+11.​Green Plains Reports Fourth Quarter and Full Year 2024 Financial Results, accessed July
+    27,                                                                                2025,
+    https://investor.gpreinc.com/news/news-details/2025/Green-Plains-Reports-Fourth-Quar
+    ter-and-Full-Year-2024-Financial-Results/default.aspx
+12.​Unem projeta avanço de 20% na produção de etanol de milho no ..., accessed July 27,
+    2025,
+    https://portal.datagro.com/pt/2/sugar-ethanol/976645/unem-projeta-avanco-de-20-na-p
+    roducao-de-etanol-de-milho-no-brasil-em-
+13.​Produção de etanol de milho do Brasil deve crescer 20% em 2025/26,diz Unem -
+    Brasilagro,                accessed                  July               27,        2025,
+    https://www.brasilagro.com.br/conteudo/producao-de-etanol-de-milho-do-brasil-deve-cr
+    escer-20-em-202526diz-unem.html
+14.​Produção de cana-de-açúcar em 2023/24 atinge novo recorde de 713,2 milhões de t,
+    accessed                          July                         27,                 2025,
+    https://exame.com/agro/producao-de-cana-de-acucar-em-2023-24-atinge-novo-recorde-
+    de-7132-milhoes-de-t/
+15.​Lei que incentiva 'combustíveis do futuro' é sancionada com vetos ..., accessed July 27,
+    2025,
+    https://www12.senado.leg.br/noticias/materias/2024/10/10/lei-que-incentiva-combustiv
+    eis-do-futuro-e-sancionada-com-vetos
+16.​Presidente Lula sanciona Lei do Combustível do Futuro para promover a mobilidade
+    sustentável        -      Portal       Gov.br,    accessed         July     27,      2025,
+    https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2024/10/presidente-l
+    ula-sanciona-lei-do-combustivel-do-futuro-para-promover-a-mobilidade-sustentavel
+17.​Lei do Combustível do Futuro | Deloitte Brasil, accessed July 27, 2025,
+    https://www.deloitte.com/br/pt/Industries/consumer/perspectives/lei-combustivel-futur
+    o.html
+18.​China abre mercado para DDG do Brasil - Portal - Datagro, accessed July 27, 2025,
+    https://portal.datagro.com/pt/5/livestock/979409/china-abre-mercado-para-ddg-do-bras
+    il
+19.​Brasil-China: seminário técnico sobre DDG/DDGS | UNEM, accessed July 27, 2025,
+    https://etanoldemilho.com.br/brasil-china-seminario-tecnico-sobre-ddg-ddgs/
+20.​WACC in Agribusiness: An Empirical Study in the Sugarcane Sector - ResearchGate,
+    accessed                          July                      27,                      2025,
+    https://www.researchgate.net/publication/326305595_WACC_in_Agribusiness_An_Empir
+    ical_Study_in_the_Sugarcane_Sector
+21.​Com dívidas em alta, FS Bioenergia tem pontos de atenção (e sinais positivos), analisa XP,
+    accessed                          July                      27,                      2025,
+    https://www.novacana.com/noticias/dividas-alta-fs-bioenergia-pontos-atencao-sinais-pos
+    itivos-analisa-xp-151024
+22.​Pioneira na produção de etanol de milho assusta o mercado pelo alto endividamento,
+    accessed                          July                      27,                      2025,
+    https://www.comprerural.com/pioneira-na-producao-de-etanol-de-milho-assusta-o-merc
+    ado-pelo-alto-endividamento/
+23.​Noticias - FS, accessed July 27, 2025, https://www.fs.agr.br/sala-de-imprensa/noticias/
+24.​B3 negociou R$ 2,88 bilhões em CBIOs no primeiro semestre ..., accessed July 27, 2025,
+    https://www.biodieselbr.com/articles/b3-negociou-r-2-88-bilhoes-em-cbios-no-primeiro-s
+    emestre-170725
+25.​Energia - FS, accessed July 27, 2025, https://www.fs.agr.br/nosso-negocio/energia/
+26.​Sobre a FS, accessed July 27, 2025, https://www.fs.agr.br/sobre-a-fs/
+27.​FS inaugura sua segunda e maior usina de etanol de milho, localizada em Sorriso | UNEM,
+    accessed                          July                      27,                      2025,
+    https://etanoldemilho.com.br/fs-inaugura-sua-segunda-e-maior-usina-de-etanol-de-milh
+    o-localizada-em-sorriso-mt/
+28.​Fato Relevante - Resultado Safra 21.22 - MZ Group, accessed July 27, 2025,
+    https://www.mzgroup.com.br/fatosrelevantes/fato-relevante-resultado-safra-21-22/
+29.​Com açúcar e mais etanol de milho, lucro da CerradinhoBio cresce ..., accessed July 27,
+    2025,
+    https://www.novacana.com/noticias/fabrica-acucar-operacao-cerradinhobio-amplia-lucro
+    -619-2-trimestre-111124
+30.​Cerradinho duplica capacidade de produção de etanol hidratado com milho - NovaCana,
+    accessed                          July                      27,                      2025,
+    https://www.novacana.com/noticias/cerradinho-duplica-capacidade-producao-etanol-hid
+    ratado-milho-160323
+31.​Linha do tempo - DEV - Cerradinho Híbrido, accessed July 27, 2025,
+    https://www.cerradinhobio.com.br/linha-do-tempo-dev/
+32.​Green      Plains   Inc.    -   AnnualReports.com,    accessed    July   27,    2025,
+    https://www.annualreports.com/Company/green-plains-inc
+33.​Green Plains Reports Third Quarter 2024 Financial Results, accessed July 27, 2025,
+    https://investor.gpreinc.com/news/news-details/2024/Green-Plains-Reports-Third-Quart
+    er-2024-Financial-Results/default.aspx
+34.​Produção de etanol de milho do Brasil deve crescer 20% em 2025/26, diz Unem, accessed
+    July                                     27,                                    2025,
+    https://www.moneytimes.com.br/producao-de-etanol-de-milho-do-brasil-deve-crescer-2
+    0-em-2025-26-diz-unem-pads/
+

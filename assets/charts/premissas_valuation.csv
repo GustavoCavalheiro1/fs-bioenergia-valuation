@@ -1,0 +1,10 @@
+﻿Premissa,Valor,Interpretação
+Período explícito,FY26–FY30,Projeção de cinco anos
+Receita FY25 (base),"R$ 10,69 bi",Ponto de partida do modelo
+Crescimento da receita,12% → 4%,"FY26, FY27, FY28, FY29 e FY30"
+Margem EBIT,"22,0%","22,4% no FY25 base"
+Alíquota de impostos,34%,Aplicada ao EBIT
+CAPEX,8% → 4% da receita,Trajetória decrescente
+WACC,"15,0%",Taxa de desconto
+Crescimento na perpetuidade,"3,0%",Taxa terminal
+Equity Value,"R$ 7,19 bi",Valor reportado no PDF
