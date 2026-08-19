@@ -169,6 +169,27 @@ streamlit run app.py
 
 Em seguida, abra `http://localhost:8501` no navegador. O aplicativo está concentrado em [`app.py`](app.py), enquanto a lógica do modelo fica em [`scripts/valuation_model.py`](scripts/valuation_model.py), permitindo separar apresentação e cálculo.
 
+## Registro das funcionalidades implementadas
+
+Esta seção documenta o que foi construído no projeto utilizando os dados que já estavam disponíveis no PDF, nos arquivos CSV e nos scripts do repositório. **Nenhum dado, premissa, valor de valuation ou cálculo existente foi alterado.**
+
+| Entrega | Implementação realizada | Dados utilizados |
+|---|---|---|
+| Análise financeira | Estruturação das projeções de FY25 a FY30 com receita, EBIT, impostos, NOPAT, D&A, CAPEX, capital de giro e FCFF | Dados do Anexo A do PDF |
+| Valuation DCF | Demonstração do PV dos FCFF explícitos, valor terminal, Enterprise Value, dívida líquida e Equity Value | WACC de 15%, crescimento perpétuo de 3% e demais premissas já existentes |
+| Gráficos Matplotlib | Gráficos de receita/EBIT, estrutura de caixa, FCFF descontado, valuation bridge, benchmarking, Porter e matriz de riscos | Séries financeiras e avaliações qualitativas já presentes no projeto |
+| Tabelas | Tabelas visuais das projeções e das premissas | Arquivos `projecoes_dcf_completas.csv` e `premissas_valuation.csv` |
+| Sensibilidade original | Matriz de WACC e crescimento perpétuo com os cenários já registrados no PDF | WACC de 14%, 15% e 16%; g de 2,5%, 3,0% e 3,5% |
+| Sensibilidade avançada | Matriz paramétrica configurável que recalcula o Equity Value para diferentes combinações | Mesmos FCFF projetados, dívida líquida e fórmulas do modelo existente |
+| Dashboard Streamlit | Interface interativa com controles de WACC, crescimento perpétuo, faixas da matriz, KPIs, tabelas, heatmap e gráficos | Dados e premissas existentes, sem criação de dados simulados |
+| Reprodutibilidade | Scripts Python, CSVs exportáveis, `requirements.txt` e instruções de execução | Estrutura atual do repositório |
+
+### Preservação dos dados originais
+
+Os valores apresentados no portfólio permanecem os mesmos do material de origem. Isso inclui a receita base de **R$ 10,69 bilhões**, a margem EBIT aproximada de **22%**, a alíquota de impostos de **34%**, a trajetória de CAPEX de **8% para 4% da receita**, o WACC de **15%**, o crescimento terminal de **3%**, o Enterprise Value de **R$ 13,943 bilhões**, a dívida líquida implícita de **R$ 6,800 bilhões** e o Equity Value detalhado de **R$ 7,143 bilhões**, arredondado no resumo para **R$ 7,19 bilhões**.
+
+A análise avançada apenas permite observar como o mesmo modelo reage a diferentes combinações de WACC e crescimento perpétuo. Ela não substitui nem sobrescreve a matriz original do PDF. O arquivo [`sensibilidade_equity_value.csv`](assets/charts/sensibilidade_equity_value.csv) mantém os cenários originais, enquanto [`sensibilidade_avancada.csv`](assets/charts/sensibilidade_avancada.csv) registra a grade paramétrica adicional.
+
 ## Licença e uso
 
 Este repositório é apresentado como material de estudo e portfólio. Os valores, premissas e conclusões devem ser revisados antes de qualquer utilização profissional ou decisão financeira.
